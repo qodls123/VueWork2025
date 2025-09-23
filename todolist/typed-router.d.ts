@@ -42,6 +42,10 @@ declare module 'vue-router/auto-routes' {
     '/SlotContent': RouteRecordInfo<'/SlotContent', '/SlotContent', Record<never, never>, Record<never, never>>,
     '/TransitionBasic': RouteRecordInfo<'/TransitionBasic', '/TransitionBasic', Record<never, never>, Record<never, never>>,
     '/TransitionDuration': RouteRecordInfo<'/TransitionDuration', '/TransitionDuration', Record<never, never>, Record<never, never>>,
+    '/TransitionElements': RouteRecordInfo<'/TransitionElements', '/TransitionElements', Record<never, never>, Record<never, never>>,
+    '/TransitionGroupExam1': RouteRecordInfo<'/TransitionGroupExam1', '/TransitionGroupExam1', Record<never, never>, Record<never, never>>,
+    '/TransitionGroupExam2': RouteRecordInfo<'/TransitionGroupExam2', '/TransitionGroupExam2', Record<never, never>, Record<never, never>>,
+    '/TransitionGroupExam3': RouteRecordInfo<'/TransitionGroupExam3', '/TransitionGroupExam3', Record<never, never>, Record<never, never>>,
     '/TransitionGsap': RouteRecordInfo<'/TransitionGsap', '/TransitionGsap', Record<never, never>, Record<never, never>>,
     '/TransitionHooks': RouteRecordInfo<'/TransitionHooks', '/TransitionHooks', Record<never, never>, Record<never, never>>,
   }
