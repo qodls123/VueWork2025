@@ -24,12 +24,18 @@ declare module 'vue-router/auto-routes' {
     '/FlexAlignItems': RouteRecordInfo<'/FlexAlignItems', '/FlexAlignItems', Record<never, never>, Record<never, never>>,
     '/FlexAlignSelf': RouteRecordInfo<'/FlexAlignSelf', '/FlexAlignSelf', Record<never, never>, Record<never, never>>,
     '/FlexBasis': RouteRecordInfo<'/FlexBasis', '/FlexBasis', Record<never, never>, Record<never, never>>,
+    '/FlexBreakpoint': RouteRecordInfo<'/FlexBreakpoint', '/FlexBreakpoint', Record<never, never>, Record<never, never>>,
     '/FlexDirection': RouteRecordInfo<'/FlexDirection', '/FlexDirection', Record<never, never>, Record<never, never>>,
     '/FlexDisplay': RouteRecordInfo<'/FlexDisplay', '/FlexDisplay', Record<never, never>, Record<never, never>>,
+    '/FlexGridJustify': RouteRecordInfo<'/FlexGridJustify', '/FlexGridJustify', Record<never, never>, Record<never, never>>,
+    '/FlexGridNested': RouteRecordInfo<'/FlexGridNested', '/FlexGridNested', Record<never, never>, Record<never, never>>,
+    '/FlexGridOffset': RouteRecordInfo<'/FlexGridOffset', '/FlexGridOffset', Record<never, never>, Record<never, never>>,
     '/FlexGrow': RouteRecordInfo<'/FlexGrow', '/FlexGrow', Record<never, never>, Record<never, never>>,
     '/FlexJustifyContent': RouteRecordInfo<'/FlexJustifyContent', '/FlexJustifyContent', Record<never, never>, Record<never, never>>,
+    '/FlexPropAlign': RouteRecordInfo<'/FlexPropAlign', '/FlexPropAlign', Record<never, never>, Record<never, never>>,
     '/FlexShrink': RouteRecordInfo<'/FlexShrink', '/FlexShrink', Record<never, never>, Record<never, never>>,
     '/FlexWrap': RouteRecordInfo<'/FlexWrap', '/FlexWrap', Record<never, never>, Record<never, never>>,
     '/Home': RouteRecordInfo<'/Home', '/Home', Record<never, never>, Record<never, never>>,
+    '/HomeWithFlex': RouteRecordInfo<'/HomeWithFlex', '/HomeWithFlex', Record<never, never>, Record<never, never>>,
   }
 }
